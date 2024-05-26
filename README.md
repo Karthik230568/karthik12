@@ -9,5 +9,6 @@ I took flex direction row in body and flex direction column in sub parts.
 I used some transitions, transform, box shadow and hovering.
 I used cursor pointer for icons and buttons.
 Remaining i used normal properties.
+I used @media() for responsiveness.
 
 
